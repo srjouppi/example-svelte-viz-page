@@ -2333,7 +2333,8 @@ const Routes = create_ssr_component(($$result, $$props, $$bindings, slots) => {
     subtitle: "It even includes graphics! Isn't it amazing?"
   }, {}, {})}
 
-<div class="${"container svelte-x4p5vb"}"><p class="${"svelte-x4p5vb"}">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lectus enim, hendrerit eu risus a, convallis semper
+<div class="${"container svelte-x4p5vb"}"><p class="${"svelte-x4p5vb"}">HOW ON EARTH DOES THIS WORK?
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lectus enim, hendrerit eu risus a, convallis semper
     erat. Vestibulum id tristique massa, fermentum efficitur felis.
   </p>
   <p class="${"svelte-x4p5vb"}">Aliquam laoreet ultricies tortor nec euismod.</p>
